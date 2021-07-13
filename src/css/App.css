@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100%;
+}
+
+.App {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.App-header {
+    min-height: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #4e71ba;
+}
+
+.App-nav {
+    min-height: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+ul li {
+    list-style-type: none;
+    float: left;
+    outline: 1px none black;
+    margin-left: 20px;
+}

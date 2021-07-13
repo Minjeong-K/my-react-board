@@ -1,0 +1,25 @@
+.board {
+    height: 100%;
+    background-color: rgb(235, 233, 233);
+    flex: 1;
+}
+
+.title-input {
+    min-width: 444px;
+    width: 60vw;
+    height: 25px;
+    padding: 8px;
+
+    border: none;
+    border-radius: 5px;
+}
+
+.content-input {
+    min-width: 440px;
+    width: 60vw;
+    min-height: 250px;
+    padding: 10px;
+
+    border: none;
+    border-radius: 5px;
+}

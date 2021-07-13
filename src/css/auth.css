@@ -1,0 +1,28 @@
+.sign-input {
+    width: 250px;
+    height: 25px;
+    padding: 5px;
+
+    background-color: rgb(235, 233, 233);
+
+    border: none;
+    border-radius: 5px;
+}
+
+.sign-button {
+    width: 259px;
+    height: 35px;
+
+    margin-top: 20px;
+    background-color: #3b5998;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+}
+
+.sign-link {
+    font-size: 8px;
+    position: relative;
+    left: 95px;
+}
